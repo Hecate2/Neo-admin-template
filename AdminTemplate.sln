@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdminTemplate", "AdminTemplate.csproj", "{09B0E4A4-0A0A-4B59-A831-45006E3E1DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09B0E4A4-0A0A-4B59-A831-45006E3E1DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B0E4A4-0A0A-4B59-A831-45006E3E1DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B0E4A4-0A0A-4B59-A831-45006E3E1DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B0E4A4-0A0A-4B59-A831-45006E3E1DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE9E1630-94C7-43CD-B168-A8387384E8EB}
+	EndGlobalSection
+EndGlobal
